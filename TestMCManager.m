@@ -129,6 +129,8 @@
      */
 }
 
+// Missing Delegate Methods for other stuff - To Do
+
 #pragma mark - MCBrowserViewControllerDelegate Methods
 
 - (BOOL)browserViewController:(MCBrowserViewController *)browserViewController shouldPresentNearbyPeer:(MCPeerID *)peerID withDiscoveryInfo:(NSDictionary *)info
